@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Dupa
+echo "Dupa"
 
 whoami
 uptime
