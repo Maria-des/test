@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Dupa"
+echo "my_commit"
 
 whoami
 uptime
